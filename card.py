@@ -1,4 +1,4 @@
-#Coded by Oxida007
+#Coded by Levathi4n 
 from math import exp
 from os import system
 import random, time
