@@ -5,7 +5,7 @@ import random, time
 
 system("cls")
 
-print("Created by Oxida007")
+print("Created by Levathi4n")
 nb_nitros = int(input("Enter Many Credit Card : "))
 nb = 1
 print("Generating card...\n")
